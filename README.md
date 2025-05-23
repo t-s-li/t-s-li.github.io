@@ -1,2 +1,1 @@
-# t-s-li.github.io
-This is the page: [GitHub Wiki](https://github.com/t-s-li/t-s-li.github.io/wiki)
+We just updated our [Docs Contribution Guide](https://www.codecademy.com/pages/contribute-docs)!
